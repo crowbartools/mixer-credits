@@ -1,62 +1,62 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-html, body {
-  height: 100%;
-}
-
-body {
-  background: transparent;
-  overflow: hidden;
-}
-
-.wrapper{
-  overflow:hidden;
-  display:none;
-  width:100vw;
-  height:100vh;
-}
-
-.credits{
-  position:absolute;
-  font: 300 50px/1 'Open Sans Condensed', sans-serif;
-  text-align: center;
-  text-transform: uppercase;
-  left: 0;
-  right: 0;
-  margin: 0 auto;
-}
-
-.movie, .ending {
-  margin-bottom: 50px;
-  font-size: 70px;
-}
-
-.job {
-  margin-bottom: 5px;
-  font-size: 35px;
-}
-
-.name {
-  margin-bottom: 50px;
-  font-size: 45px;
-}
-
-.extras{
-  margin-bottom: 50px;
-}
-
-.extraName{
-  display:inline-block;
-  padding:0px 10px 20px 10px;
-  font-size:35pt;
-}
-
-.ending{
-  margin-top:100px;
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: transparent;
+  overflow: hidden;
+}
+
+.wrapper{
+  overflow:hidden;
+  display:none;
+  width:100vw;
+  height:100vh;
+}
+
+.credits{
+  position:absolute;
+  font: 300 50px/1 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.movie, .ending {
+  margin-bottom: 50px;
+  font-size: 70px;
+}
+
+.job {
+  margin-bottom: 5px;
+  font-size: 35px;
+}
+
+.name {
+  margin-bottom: 50px;
+  font-size: 45px;
+}
+
+.extras{
+  margin-bottom: 50px;
+}
+
+.extraName{
+  display:inline-block;
+  padding:0px 10px 20px 10px;
+  font-size:35pt;
+}
+
+.ending{
+  margin-top:100px;
 }
